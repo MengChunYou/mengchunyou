@@ -4,7 +4,7 @@ I'm Meng-Chun You (游孟純), a master's student in statistics from Taipei, Tai
 
 ## About Me ✨
 
-I possess a strong statistical background and a passion for data analysis, with expertise in interdisciplinary spatial information technology and its applications. My dream is to become a data scientist, and I am passionate about solving business problems through data analysis, with a special interest in industries that emphasize human mobility and spatial heterogeneity.
+I possess a strong statistical background and a passion for data analysis, with expertise in interdisciplinary spatial information technology and its applications. Besides, I am passionate about solving business problems through data analysis, with a special interest in industries that emphasize human mobility and spatial heterogeneity.
 
 ## Skills 🔧
 
