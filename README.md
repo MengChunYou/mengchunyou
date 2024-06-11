@@ -1,6 +1,6 @@
 # Hello, I'm Meng-Chun You! 👋
 
-I'm Meng-Chun You (游孟純), a master's student in statistics from Taipei, Taiwan, currently pursuing my degree at National Taiwan University🎓. Additionally, I serve as the Director of Academic Affairs at [NTU Data Analytics Club](https://ntudac.com/)📊.
+I'm Meng-Chun You (游孟純), a master's student in statistics from Taipei, Taiwan, currently pursuing my degree at National Taiwan University🎓. 
 
 ## About Me ✨
 
