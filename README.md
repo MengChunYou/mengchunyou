@@ -1,6 +1,6 @@
 # Hello, I'm Meng-Chun You! 👋
 
-I'm Meng-Chun You (游孟純), a master's student in statistics from Taipei, Taiwan, currently pursuing my degree at National Taiwan University🎓. 
+I'm Meng-Chun You (游孟純), a data scientist in the financial industry, focused on delivering reliable AI services that address real-world business challenges. I hold a master's degree in statistics from National Taiwan University, Taipei, Taiwan.
 
 ## About Me ✨
 
