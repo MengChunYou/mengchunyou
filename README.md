@@ -1,17 +1,14 @@
 # Hello, I'm Meng-Chun You! 👋
 
-I'm Meng-Chun You (游孟純), a data scientist in the financial industry, focused on delivering reliable AI services that address real-world business challenges. I hold a master's degree in statistics from National Taiwan University, Taipei, Taiwan.
-
-## About Me ✨
-
-I possess a strong statistical background and a passion for data analysis, with expertise in interdisciplinary spatial information technology and its applications. I enjoy solving business problems through data-driven insights, with a particular focus on industries that prioritize exceptional customer service.
+I am currently a Machine Learning Engineer @ AI Lab, SinoPac FHC.
 
 ## Skills 🔧
 
-- **Programming Languages:** Python, R
-- **Analysis Methods:** Clustering, Classification, Regression, Causal Inference, Spatial Analysis, Simulation
-- **Data-Related Tools:** Machine Learning (scikit-learn), SQL, Google Analytics, Excel, Tableau, Looker Studio
-- **Developer Tools:** Git, Jupyter, RStudio, NetLogo
+- **Machine Learning:** Clustering, Classification, Regression
+- **Dev & Data Tools:** Git, GitHub, Vim, Linux CLI, SQL
+- **Automation & Streaming:** Apache Airflow, Apache Kafka, Redis
+- **API Development:** FastAPI, Pydantic
+- **Programming Languages:** Python, Bash, R
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MengChunYou&layout=compact&show_icons=true&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=jupyter%20notebook)
